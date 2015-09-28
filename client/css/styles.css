@@ -1,0 +1,48 @@
+.logo {
+	font-weight: bold;
+	color: darkturquoise;
+	font-size: 35px;
+	margin: 25px;
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#tweetBox {
+	
+	font-size:18px;
+	width: 500px;
+	height: 50px;
+	border: 3px solid darkturquoise;
+	border-radius: 5px;
+
+	
+}
+
+#tweetBox:focus{
+	
+	background-color: ghostwhite;
+	outline: none;
+}
+
+#tweetBtn {
+	
+	font-size: 18px;
+	height: 50px;
+	width: 75px;
+	background-color: darkturquoise;
+	border: 3px solid darkturquoise;
+	border-radius: 5px;
+	color: floralwhite;
+}
+
+#tweetBtn:hover {
+	
+	color: gray;
+	
+}
+
+#tweetContainer {
+	
+	margin: 50px 10px;
+	text-align: center;
+	
+}
