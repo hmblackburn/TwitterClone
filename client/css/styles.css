@@ -1,12 +1,12 @@
-.logo {
+.title {
 	font-weight: bold;
 	color: darkturquoise;
-	font-size: 35px;
+	font-size: 40px;
 	margin: 25px;
 	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
-#tweetBox {
+#box {
 	
 	font-size:18px;
 	width: 500px;
@@ -17,13 +17,8 @@
 	
 }
 
-#tweetBox:focus{
-	
-	background-color: ghostwhite;
-	outline: none;
-}
 
-#tweetBtn {
+#button {
 	
 	font-size: 18px;
 	height: 50px;
@@ -34,13 +29,13 @@
 	color: floralwhite;
 }
 
-#tweetBtn:hover {
+#button:hover {
 	
 	color: gray;
 	
 }
 
-#tweetContainer {
+#container {
 	
 	margin: 50px 10px;
 	text-align: center;
